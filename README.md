@@ -5,8 +5,8 @@
 #### :birthday:Birth : 2004.08.18
 #### :email:E-Mail : kevin5851@naver.com
 ### :mortar_board:Edu:mortar_board:
-<img src="https://img.shields.io/badge/KOOKMIN UNIVERSITY-D60051?style=flat-square"/> M.S. 2026.02 ~ Now<br>
-<img src="https://img.shields.io/badge/Tech University of Korea-0D3AC7?style=flat-square"/> B.E. 2023.03 ~ 2026.02
+<img src="https://img.shields.io/badge/KOOKMIN UNIVERSITY-014DA0?style=flat-square"/> M.S. 2026.02 ~ Now<br>
+<img src="https://img.shields.io/badge/Tech University of Korea-1758A8?style=flat-square"/> B.E. 2023.03 ~ 2026.02
 ### :construction_worker:Work:construction_worker:
 <img src="https://img.shields.io/badge/ATEC Mobility CO.,Ltd-D60051?style=flat-square"/> 2024.01 ~ Now<br>
 <img src="https://img.shields.io/badge/TeenStudio CO.,Ltd-0D3AC7?style=flat-square"/> 2021.01 ~ 2022.07
